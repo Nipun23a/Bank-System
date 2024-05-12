@@ -1,0 +1,42 @@
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\bin\Debug\net8.0\Task3.2.exe
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\bin\Debug\net8.0\Task3.2.deps.json
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\bin\Debug\net8.0\Task3.2.runtimeconfig.json
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\bin\Debug\net8.0\Task3.2.dll
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\bin\Debug\net8.0\Task3.2.pdb
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfoInputs.cache
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfo.cs
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.csproj.CoreCompileInputs.cache
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.dll
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\refint\Task3.2.dll
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.pdb
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\Task3.2.genruntimeconfig.cache
+C:\Users\Shehan Perera\Desktop\New folder\Task3.2\obj\Debug\net8.0\ref\Task3.2.dll
+C:\Users\nipun\OneDrive\Desktop\Task3.2\bin\Debug\net8.0\Task3.2.exe
+C:\Users\nipun\OneDrive\Desktop\Task3.2\bin\Debug\net8.0\Task3.2.deps.json
+C:\Users\nipun\OneDrive\Desktop\Task3.2\bin\Debug\net8.0\Task3.2.runtimeconfig.json
+C:\Users\nipun\OneDrive\Desktop\Task3.2\bin\Debug\net8.0\Task3.2.dll
+C:\Users\nipun\OneDrive\Desktop\Task3.2\bin\Debug\net8.0\Task3.2.pdb
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfoInputs.cache
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfo.cs
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.csproj.CoreCompileInputs.cache
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.dll
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\refint\Task3.2.dll
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.pdb
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\Task3.2.genruntimeconfig.cache
+C:\Users\nipun\OneDrive\Desktop\Task3.2\obj\Debug\net8.0\ref\Task3.2.dll
+D:\Task3.2\bin\Debug\net8.0\Task3.2.exe
+D:\Task3.2\bin\Debug\net8.0\Task3.2.deps.json
+D:\Task3.2\bin\Debug\net8.0\Task3.2.runtimeconfig.json
+D:\Task3.2\bin\Debug\net8.0\Task3.2.dll
+D:\Task3.2\bin\Debug\net8.0\Task3.2.pdb
+D:\Task3.2\obj\Debug\net8.0\Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfoInputs.cache
+D:\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfo.cs
+D:\Task3.2\obj\Debug\net8.0\Task3.2.csproj.CoreCompileInputs.cache
+D:\Task3.2\obj\Debug\net8.0\Task3.2.dll
+D:\Task3.2\obj\Debug\net8.0\refint\Task3.2.dll
+D:\Task3.2\obj\Debug\net8.0\Task3.2.pdb
+D:\Task3.2\obj\Debug\net8.0\Task3.2.genruntimeconfig.cache
+D:\Task3.2\obj\Debug\net8.0\ref\Task3.2.dll
